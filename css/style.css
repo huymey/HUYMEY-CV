@@ -20,6 +20,7 @@ nav{
     display: flex;
     background: rgb(166, 224, 210);
     justify-content: space-between;
+    padding: 10px;
 }
 menu ul{
     display: flex;
@@ -167,7 +168,7 @@ span{
 }
 /* form */
 form{
-    background: #eee;
+    background: rgba(166, 236, 186, 0.64);
     width: 50%;
     margin: 10px auto;
     flex-wrap: wrap;
